@@ -27,7 +27,7 @@
     "istanbul": "0.4.5",
     "qunit-extras": "^3.0.0",
     "qunitjs": "^2.3.3",
-    "requirejs": "^2.3.3"
+    "requirejs": "^2.3.5"
   },
   "files": [
     "benchmark.js"
