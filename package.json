@@ -23,7 +23,7 @@
   },
   "devDependencies": {
     "coveralls": "^2.13.1",
-    "docdown": "~0.7.2",
+    "docdown": "~0.7.3",
     "istanbul": "0.4.5",
     "qunit-extras": "^3.0.0",
     "qunitjs": "^2.3.3",
